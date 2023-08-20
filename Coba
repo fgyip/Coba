@@ -1,6 +1,6 @@
-#KODIPROP:inputstreamaddon=inputstream.adaptive 	
-#KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 	
+#KODIPROP:inputstreamaddon=inputstream.adaptive 	#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 	
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"DKx5K11e+f+yTjJKUsPaCw","kid":"2d8qqcSXTtO78HMN761o/g"}],"type":"temporary"} 
-#EXTINF:-1 tvg-id="StarhubPremier1" tvg-name="StarhubPremier1" group-title="NORD VPN SG" group-logo="https://play-lh.googleusercontent.com/fS1NtkSfmf9ppfe7JcxjktyuDg2FFKCjn9A-czx_UERwYb5D4XX1NoDYeSmxpx8i5z8=w240-h480"" tvg-logo="https://i.ibb.co/JHkYJjJ/hubpremier1.jpg",STARHUB PREMIER 1  	
-#EXTVLCOPT:http-referrer=https://www.starhubtvplus.com 	 
+#EXTINF:-1 tvg-id="StarhubPremier1" tvg-name="StarhubPremier1" group-title="NORD VPN SG" group-logo="https://play-lh.googleusercontent.com/fS1NtkSfmf9ppfe7JcxjktyuDg2FFKCjn9A-czx_UERwYb5D4XX1NoDYeSmxpx8i5z8=w240-h480"" tvg-logo="https://i.ibb.co/JHkYJjJ/hubpremier1.jpg",STARHUB PREMIER 1 FHD (USE VPN SINGAPORE) 	
+#EXTVLCOPT:http-referrer=https://www.starhubtvplus.com 
 https://hubst4rz.4rr0rr4.workers.dev/bpk-tv/HubPremier1/output/manifest.mpd
