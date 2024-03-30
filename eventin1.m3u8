@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=11000000,FRAME-RATE=25
+http://mag.greatott.me/play/live.php?mac=00:1a:79:c1:48:76&stream=1282768&extension=m3u8
