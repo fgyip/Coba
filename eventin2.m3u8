@@ -1,6 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:4
-#EXT-X-STREAM-INF:BANDWIDTH=8200000,FRAME-RATE=
+#EXT-X-STREAM-INF:BANDWIDTH=8200000,FRAME-RATE=25.000
 http://mag.greatott.me/play/live.php?mac=00:1a:79:c1:48:76&stream=1282769&extension=m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=10300000,FRAME-RATE=
-http://mag.greatott.me/play/live.php?mac=00:1a:79:c1:48:76&stream=1282754&extension=m3u8
